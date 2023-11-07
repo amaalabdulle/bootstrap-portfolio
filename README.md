@@ -15,7 +15,7 @@ You can directly view my projects (or placeholders) by clicking on the image whi
 
 Clicking on the navigation bar will move along my portfolio. Website will adapt depending on screensize.
 
-Link to deployed website: 
+Link to deployed website: https://amaalabdulle.github.io/bootstrap-portfolio/
 
 ## Credits
 
